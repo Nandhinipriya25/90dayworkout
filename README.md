@@ -30,7 +30,7 @@ Day1 : Mintra
 15) Close Browser
 
 
-Day1 : Nykaa
+Day2 : Nykaa
 1) Go to https://www.nykaa.com/
 2) Mouseover on Brands and Mouseover on Popular
 3) Click L'Oreal Paris
