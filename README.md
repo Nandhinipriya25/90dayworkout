@@ -104,3 +104,148 @@ Day6 : Bigbasket.com
 17) Reduce the Quantity of Dal as 1 
 18) Validate the Sub Total for the current items
 19) Close the Browser
+
+Day 7 : Honda
+22/04/2020
+=============
+1) Go to https://www.honda2wheelersindia.com/
+2) Click on scooters and click dio
+3) Click on Specifications and mouseover on ENGINE
+4) Get Displacement value
+5) Go to Scooters and click Activa 125
+6) Click on Specifications and mouseover on ENGINE
+7) Get Displacement value
+8) Compare Displacement of Dio and Activa 125 and print the Scooter name having better Displacement.
+9) Click FAQ from Menu 
+10) Click Activa 125 BS-VI under Browse By Product
+11) Click  Vehicle Price 
+12) Make sure Activa 125 BS-VI selected and click submit
+13) click the price link
+14)  Go to the new Window and select the state as Tamil Nadu and  city as Chennai
+15) Click Search
+16) Print all the 3 models and their prices
+17) Close the Browser
+
+Day 8: Pepperfry
+
+23/04/2020
+============
+1) Go to https://www.pepperfry.com/
+2) Mouseover on Furniture and click Office Chairs under Chairs
+3) click Executive Chairs
+4) Change the minimum Height as 50 in under Dimensions
+5) Add "Poise Executive Chair in Black Colour" chair to Wishlist
+6) Mouseover on Homeware and Click Pressure Cookers under Cookware
+7) Select Prestige as Brand
+8) Select Capacity as 1-3 Ltr
+9) Add "Nakshatra Cute Metallic Red Aluminium Cooker 2 Ltr" to Wishlist
+10) Verify the number of items in Wishlist
+11) Navigate to Wishlist
+12) Move Pressure Cooker only to Cart from Wishlist
+13) Check for the availability for Pincode 600128
+14) Click Proceed to Pay Securely
+15 Click Proceed to Pay
+16) Capture the screenshot of the item under Order Item
+17) Close the browser
+
+Day 9 : 24/04/2020
+============
+1) Go to https://demo.1crmcloud.com/
+2) Give username as admin and password as admin
+3) Choose theme as Claro Theme
+4) Click on Sales and Marketting 
+5) Click Create contact
+6) Select Title and type First name, Last Name, Email and Phone Numbers
+7) Select Lead Source as "Public Relations"
+8) Select Business Roles as "Sales"
+9) Fill the Primary Address, City, State, Country and Postal Code and click Save
+10) Mouse over on Today's Activities and click Meetings
+11) Click Create 
+12) Type Subject as "Project Status" , Status as "Planned" 
+13) Start Date & Time as tomorrow 3 pm and Duration as 1hr
+14) Click Add paricipants, add your created Contact name and click Save
+15) Go to Sales and Marketting-->Contacts
+16) search the lead Name and click the name from the result
+17) Check weather the Meeting is assigned to the contact under Activities Section.
+
+Day 10 : 27/04/2020
+============
+1) https://www.justdial.com/
+2) Set the Location as Chennai
+3) Click Auto Care in the left menu
+4) Click Car Repair
+5) Click Car Brand as Hyundai
+6) Click Make as Hyundai Xcent
+7) Click on Location and Enter Porur
+8) Select Porur from the dropdown list
+9) Select Distance starting from 1 km
+10) Identify all the Service Center having Ratings >=4.5 and Votes >=50
+11) Save all the Service Center name and Phone number matching the above condition in excel 
+12) Close the browser
+
+Day 11 : 28/04/2020
+============
+1) Go to https://www.snapdeal.com/
+‎2) Mouse over on Toys, Kids' Fashion & more and click on Toys
+3) Click Educational Toys in Toys & Games
+‎4) Click the Customer Rating 4 star and Up 
+5) Click the offer as 40-50
+6) Check the availability for the pincode
+7) Click the Quick View of the first product 
+8) Click on View Details
+9) Capture the Price of the Product and Delivery Charge
+10) Validate the You Pay amount matches the sum of (price+deliver charge)
+11) Search for Sanitizer
+12) Click on Product "BioAyurveda Neem Power Hand Sanitizer"
+13) Capture the Price and Delivery Charge
+14) Click on Add to Cart
+15) Click on Cart 
+16) Validate the Proceed to Pay matches the total amount of both the products
+17) Close all the windows
+
+Day 12 : 29/04/2020
+==========
+1) Go to https://www.carwale.com/
+2) Click on Used
+3) Select the City as Chennai
+4) Select budget min (8L) and max(12L) and Click Search
+5) Select Cars with Photos under Only Show Cars With
+6) Select Manufacturer as "Hyundai" --> Creta
+7) Select Fuel Type as Petrol
+8) Select Best Match as "KM: Low to High"
+9) Validate the Cars are listed with KMs Low to High
+10) Add the least KM ran car to Wishlist
+11) Go to Wishlist and Click on More Details
+12) Print all the details under Overview 
+13) Close the browser.
+
+Day 13 : 1 Go to https://studyabroad.shiksha.com/
+ 
+4 2 Mouse over on Colleges and click MS in Computer Science &Engg under MS Colleges
+ 
+5 3 Select GRE under Exam Accepted and Score 300 & Below 
+ 
+6 4 Max 10 Lakhs under 1st year Total fees, USA under countries
+ 
+7 5 Select Sort By: Low to high 1st year total fees
+ 
+8 6 Click Add to compare of the College having least fees with Public University, Scholarship and Accomadation facilities
+ 
+9 7 Select the first college under Compare with similar colleges 
+ 
+10 8 Click on Compare College>
+ 
+11 9 Select When to Study as 2021
+ 
+12 10 Select Preferred Countries as USA
+ 
+13 11 Select Level of Study as Masters
+ 
+14 12 Select Preferred Course as MS
+ 
+15 13 Select Specialization as "Computer Science & Engineering"
+ 
+16 14 Click on Sign Up
+ 
+17 15 Print all the warning messages displayed on the screen for missed mandatory fields 
+
