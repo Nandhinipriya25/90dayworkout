@@ -104,6 +104,7 @@ public class proj1Ajio {
 		//Click on ADD TO BAG and then GO TO BAG 
 		driver.findElementByXPath("//span[text()='ADD TO BAG']/ancestor::div[1]").click(); 
 		wait.until(ExpectedConditions.elementToBeClickable(driver.findElementByXPath("//span[text()='GO TO BAG']/ancestor::div[1]"))); 
+		JavascriptExecutor executor =(JavascriptExecutor) driver;
 		executor.executeScript("arguments[0].click();",driver.findElementByXPath("//span[text()='GO TO BAG']/ancestor::div[1]")); 
 		Thread.sleep(1000); 
 		if(driver.getTitle().contains("Shopping Bag")) 
